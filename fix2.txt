@@ -32,6 +32,6 @@
      git add .
      git commit -m ""
 
+ 13. git checkout main
 
-
-
+ 14. git cherry-pick <commit-hash>
