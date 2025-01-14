@@ -1,0 +1,37 @@
+ git config --list
+
+
+ 1. mkdir git-labb1
+
+    git Init 
+
+ 3. git add README.md
+    git commit -m "Initial commit"
+
+ 4. git checkout -b feature1
+
+ 5. git add README.md 
+    git commit -m ""
+
+ 6. git checkout main
+    git add .
+    git commit -m ""
+
+ 7. git merge main feature1
+    git add .
+    git commit -m "merge main and feature1"
+
+ 8. git tag -s extinct
+
+ 9. git reset <commit-hash>
+
+ 10. git checkout -b feature2
+     git checout main
+
+ 12. git checkout feature2
+     git add .
+     git commit -m ""
+
+
+
+
